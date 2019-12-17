@@ -61,6 +61,7 @@
         <module>mondrian</module>
       </modules>
     </profile>
+    <!--
     <profile>
       <id>workbench</id>
       <activation>
@@ -78,7 +79,7 @@
       <modules>
         <module>assemblies</module>
       </modules>
-    </profile>
+    </profile> -->
   </profiles>
 
   <repositories>
